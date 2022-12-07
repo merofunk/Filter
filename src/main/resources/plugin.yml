@@ -1,0 +1,5 @@
+name: Filter
+version: '1.13.8'
+main: vk.com.merofunk.filter.Main
+commands:
+  Filter: {}
